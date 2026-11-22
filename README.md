@@ -14,10 +14,10 @@
 - Question: Which counties should be prioritized for obesity intervention funding?
 
 **Relevant Links**:
-- Collab URL: 
+- Collab URL: https://colab.research.google.com/drive/1dxfD5qlNYqu3z4dVsQo4s7LK5mPWd5hx
 - GitHub Repository URL: https://github.com/jasirard/DSC563_M05
 - GitHub Profile URL: https://github.com/jasirard
-- Tableau Evidence URL: 
+- Tableau Evidence URL: https://public.tableau.com:9443/views/sirard_jeffrey_CDC_data_Tableau_FINAL/Summary?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Assessment Guidance**:
 
